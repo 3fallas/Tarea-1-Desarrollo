@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    background-color: rgb(223, 210, 193);
+}
+
+*{
+    font-family: 'Roboto Slab', serif;
+}
+
+.foto{
+    border-radius: 8px;
+    margin: 0 20px;
+}
+
+body{
+    background-color: rgba(250, 235, 215, 0.837);
+}

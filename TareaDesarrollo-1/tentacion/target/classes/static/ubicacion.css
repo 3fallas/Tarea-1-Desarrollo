@@ -1,0 +1,10 @@
+h1{
+    size: 95px;
+    color: white;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.887);
+}
+
+* {
+    font-family: 'Roboto Slab', serif;
+}
